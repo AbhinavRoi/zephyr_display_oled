@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/CMakeFiles/oled_lvgl"
+		},
+		{
+			"file" : "C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/CMakeFiles/oled_lvgl.rule"
+		},
+		{
+			"file" : "C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/CMakeFiles/oled_lvgl-complete.rule"
+		},
+		{
+			"file" : "C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-build.rule"
+		},
+		{
+			"file" : "C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-configure.rule"
+		},
+		{
+			"file" : "C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-download.rule"
+		},
+		{
+			"file" : "C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-install.rule"
+		},
+		{
+			"file" : "C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-mkdir.rule"
+		},
+		{
+			"file" : "C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-patch.rule"
+		},
+		{
+			"file" : "C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"oled_lvgl"
+		],
+		"name" : "oled_lvgl"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ oled_lvgl
+# Source files and their labels
+C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/CMakeFiles/oled_lvgl
+C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/CMakeFiles/oled_lvgl.rule
+C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/CMakeFiles/oled_lvgl-complete.rule
+C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-build.rule
+C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-configure.rule
+C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-download.rule
+C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-install.rule
+C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-mkdir.rule
+C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-patch.rule
+C:/myfw/ncsfund/oled_lvgl/build/_sysbuild/sysbuild/images/oled_lvgl-prefix/src/oled_lvgl-stamp/oled_lvgl-update.rule

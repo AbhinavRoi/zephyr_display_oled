@@ -1,0 +1,7 @@
+default: oled_lvgl
+build_dir: C:/myfw/ncsfund/oled_lvgl/build
+domains:
+  - name: oled_lvgl
+    build_dir: C:/myfw/ncsfund/oled_lvgl/build/oled_lvgl
+flash_order:
+  - oled_lvgl
